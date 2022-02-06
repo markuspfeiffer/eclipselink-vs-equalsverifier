@@ -10,10 +10,10 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.eclipse.persistence:org.eclipse.persistence.core:2.7.6'
-    implementation 'org.eclipse.persistence:org.eclipse.persistence.jpa:2.7.6'
-    implementation 'org.eclipse.persistence:org.eclipse.persistence.jpa.modelgen.processor:2.7.6'
-    implementation 'org.eclipse.persistence:org.eclipse.persistence.oracle:2.7.6'
+    implementation 'org.eclipse.persistence:org.eclipse.persistence.core:3.0.2'
+    implementation 'org.eclipse.persistence:org.eclipse.persistence.jpa:3.0.2'
+    implementation 'org.eclipse.persistence:org.eclipse.persistence.jpa.modelgen.processor:3.0.2'
+    implementation 'org.eclipse.persistence:org.eclipse.persistence.oracle:3.0.2'
 
     // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.2'
